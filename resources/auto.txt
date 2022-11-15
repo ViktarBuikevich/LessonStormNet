@@ -1,0 +1,98 @@
+ model - 'CT4', calendar year introduced - 2019, vehicle description: Compact executive sedan. Also marketed in a high-performance version called CT4-V.
+ model - 'CT5', calendar year introduced - 2019, vehicle description: Executive sedan. Also marketed in a high-performance version called CT5-V.
+ model - 'CT6', calendar year introduced - 2016, vehicle description: Full-size luxury sedan. Discontinued in North America and Europe after 2020, continued production in China.
+ model - 'Escalade', calendar year introduced - 1998, vehicle description: Full-size luxury SUV. Available in rear-wheel-drive and four-wheel-drive layouts. Related to the Chevrolet Tahoe and GMC Yukon.
+ model - 'Escalade ESV', calendar year introduced - 2002, vehicle description: Extended-wheelbase version of the Escalade. Related to the Chevrolet Suburban and GMC Yukon XL.
+ model - 'Lyriq', calendar year introduced - 2022, vehicle description: Fully electric mid-size luxury crossover SUV.
+ model - 'XT4', calendar year introduced - 2018, vehicle description: Subcompact luxury crossover SUV.  Related to the latest-model Buick Envision.
+ model - 'XT5', calendar year introduced - 2016, vehicle description: Compact luxury crossover SUV. Related to the GMC Terrain and Chevrolet Equinox.
+ model - 'XT6', calendar year introduced - 2019, vehicle description: Three-row mid-size luxury crossover SUV. Related to the GMC Acadia and Chevrolet Traverse.
+ model - 'Model D', calendar year introduced - 1905, vehicle description: 1
+ model - 'Model Thirty', calendar year introduced - 1909, vehicle description: 1
+ model - 'Type 51', calendar year introduced - 1915, vehicle description: Full-size luxury car
+ model - 'Type V-63', calendar year introduced - 1924, vehicle description: Full-size luxury car
+ model - 'V-16', calendar year introduced - 1930, vehicle description: Full-size luxury sedan, coupe, convertible and limousine
+ model - 'V-12', calendar year introduced - 1930, vehicle description: Full-size luxury sedan, coupe, convertible and limousine
+ model - 'Series 355', calendar year introduced - 1931, vehicle description: Full-size luxury sedan, coupe, convertible and limousine
+ model - 'Series 70', calendar year introduced - 1936, vehicle description: Full-size luxury sedan, coupe, convertible and limousine
+ model - 'Series 60', calendar year introduced - 1936, vehicle description: Full-size luxury sedan, coupe and convertible
+ model - 'Series 65', calendar year introduced - 1937, vehicle description: Full-size luxury sedan and convertible
+ model - 'Sixty Special', calendar year introduced - 1938, vehicle description: Full-size luxury sedan
+ model - 'Series 61', calendar year introduced - 1938, vehicle description: Full-size luxury sedan, coupe and convertible
+ model - 'Series 62', calendar year introduced - 1940, vehicle description: Full-size luxury sedan, coupe and convertible
+ model - 'Eldorado', calendar year introduced - 1952, vehicle description: Personal luxury coupe
+ model - 'de Ville series', calendar year introduced - 1959, vehicle description: Full-size luxury sedan
+ model - 'Calais', calendar year introduced - 1965, vehicle description: Full-size luxury sedan, hardtop and coupe
+ model - 'Seville', calendar year introduced - 1975, vehicle description: Mid-size luxury sedan
+ model - 'Fleetwood', calendar year introduced - 1976, vehicle description: Full-size luxury sedan and coupe
+ model - 'Fleetwood Brougham', calendar year introduced - 1977, vehicle description: Full-size luxury sedan and coupe
+ model - 'Cimarron', calendar year introduced - 1981, vehicle description: Compact luxury sedan
+ model - 'Brougham', calendar year introduced - 1986, vehicle description: Full-size luxury sedan
+ model - 'Allanté', calendar year introduced - 1987, vehicle description: Luxury roadster
+ model - 'Catera', calendar year introduced - 1996, vehicle description: Mid-size luxury sedan
+ model - 'Northstar LMP', calendar year introduced - 2000, vehicle description: Le Mans Prototype racing car
+ model - 'CTS', calendar year introduced - 2002, vehicle description: Mid-size luxury sedan and coupe
+ model - 'Escalade EXT', calendar year introduced - 2002, vehicle description: Full-size luxury sport utility truck (SUT) based on Chevrolet Avalanche and Cadillac Escalade.
+ model - 'SRX', calendar year introduced - 2003, vehicle description: Compact luxury crossover
+ model - 'XLR', calendar year introduced - 2003, vehicle description: Luxury sports coupe with retractable hardtop
+ model - 'CTS-V', calendar year introduced - 2004, vehicle description: High-performance version of the CTS
+ model - 'DTS', calendar year introduced - 2005, vehicle description: Full-size luxury sedan
+ model - 'BLS', calendar year introduced - 2005, vehicle description: Compact luxury sedan and station wagon mainly marketed in Europe
+ model - 'STS', calendar year introduced - 2005, vehicle description: Mid-size luxury sedan
+ model - 'STS-V', calendar year introduced - 2005, vehicle description: High-performance version of the STS
+ model - 'STS', calendar year introduced - 2006, vehicle description: Long-wheelbase version of the STS for the Chinese market
+ model - 'ATS', calendar year introduced - 2012, vehicle description: Compact luxury sedan and coupe
+ model - 'XTS', calendar year introduced - 2013, vehicle description: Full-size luxury sedan
+ model - 'ELR', calendar year introduced - 2013, vehicle description: Compact luxury plug-in hybrid coupe
+ model - 'ATS', calendar year introduced - 2014, vehicle description: Long-wheelbase version of the ATS for the Chinese market
+ model - 'ATS-V', calendar year introduced - 2016, vehicle description: High-performance version of the ATS
+ model - 'CT6', calendar year introduced - 2019, vehicle description: High-performance version of the CT6.
+ model - 'CT4', calendar year introduced - 2019, vehicle description: Compact executive sedan. Also marketed in a high-performance version called CT4-V.
+ model - 'CT5', calendar year introduced - 2019, vehicle description: Executive sedan. Also marketed in a high-performance version called CT5-V.
+ model - 'CT6', calendar year introduced - 2016, vehicle description: Full-size luxury sedan. Discontinued in North America and Europe after 2020, continued production in China.
+ model - 'Escalade', calendar year introduced - 1998, vehicle description: Full-size luxury SUV. Available in rear-wheel-drive and four-wheel-drive layouts. Related to the Chevrolet Tahoe and GMC Yukon.
+ model - 'Escalade ESV', calendar year introduced - 2002, vehicle description: Extended-wheelbase version of the Escalade. Related to the Chevrolet Suburban and GMC Yukon XL.
+ model - 'Lyriq', calendar year introduced - 2022, vehicle description: Fully electric mid-size luxury crossover SUV.
+ model - 'XT4', calendar year introduced - 2018, vehicle description: Subcompact luxury crossover SUV.  Related to the latest-model Buick Envision.
+ model - 'XT5', calendar year introduced - 2016, vehicle description: Compact luxury crossover SUV. Related to the GMC Terrain and Chevrolet Equinox.
+ model - 'XT6', calendar year introduced - 2019, vehicle description: Three-row mid-size luxury crossover SUV. Related to the GMC Acadia and Chevrolet Traverse.
+ model - 'Model D', calendar year introduced - 1905, vehicle description: 1
+ model - 'Model Thirty', calendar year introduced - 1909, vehicle description: 1
+ model - 'Type 51', calendar year introduced - 1915, vehicle description: Full-size luxury car
+ model - 'Type V-63', calendar year introduced - 1924, vehicle description: Full-size luxury car
+ model - 'V-16', calendar year introduced - 1930, vehicle description: Full-size luxury sedan, coupe, convertible and limousine
+ model - 'V-12', calendar year introduced - 1930, vehicle description: Full-size luxury sedan, coupe, convertible and limousine
+ model - 'Series 355', calendar year introduced - 1931, vehicle description: Full-size luxury sedan, coupe, convertible and limousine
+ model - 'Series 70', calendar year introduced - 1936, vehicle description: Full-size luxury sedan, coupe, convertible and limousine
+ model - 'Series 60', calendar year introduced - 1936, vehicle description: Full-size luxury sedan, coupe and convertible
+ model - 'Series 65', calendar year introduced - 1937, vehicle description: Full-size luxury sedan and convertible
+ model - 'Sixty Special', calendar year introduced - 1938, vehicle description: Full-size luxury sedan
+ model - 'Series 61', calendar year introduced - 1938, vehicle description: Full-size luxury sedan, coupe and convertible
+ model - 'Series 62', calendar year introduced - 1940, vehicle description: Full-size luxury sedan, coupe and convertible
+ model - 'Eldorado', calendar year introduced - 1952, vehicle description: Personal luxury coupe
+ model - 'de Ville series', calendar year introduced - 1959, vehicle description: Full-size luxury sedan
+ model - 'Calais', calendar year introduced - 1965, vehicle description: Full-size luxury sedan, hardtop and coupe
+ model - 'Seville', calendar year introduced - 1975, vehicle description: Mid-size luxury sedan
+ model - 'Fleetwood', calendar year introduced - 1976, vehicle description: Full-size luxury sedan and coupe
+ model - 'Fleetwood Brougham', calendar year introduced - 1977, vehicle description: Full-size luxury sedan and coupe
+ model - 'Cimarron', calendar year introduced - 1981, vehicle description: Compact luxury sedan
+ model - 'Brougham', calendar year introduced - 1986, vehicle description: Full-size luxury sedan
+ model - 'Allanté', calendar year introduced - 1987, vehicle description: Luxury roadster
+ model - 'Catera', calendar year introduced - 1996, vehicle description: Mid-size luxury sedan
+ model - 'Northstar LMP', calendar year introduced - 2000, vehicle description: Le Mans Prototype racing car
+ model - 'CTS', calendar year introduced - 2002, vehicle description: Mid-size luxury sedan and coupe
+ model - 'Escalade EXT', calendar year introduced - 2002, vehicle description: Full-size luxury sport utility truck (SUT) based on Chevrolet Avalanche and Cadillac Escalade.
+ model - 'SRX', calendar year introduced - 2003, vehicle description: Compact luxury crossover
+ model - 'XLR', calendar year introduced - 2003, vehicle description: Luxury sports coupe with retractable hardtop
+ model - 'CTS-V', calendar year introduced - 2004, vehicle description: High-performance version of the CTS
+ model - 'DTS', calendar year introduced - 2005, vehicle description: Full-size luxury sedan
+ model - 'BLS', calendar year introduced - 2005, vehicle description: Compact luxury sedan and station wagon mainly marketed in Europe
+ model - 'STS', calendar year introduced - 2005, vehicle description: Mid-size luxury sedan
+ model - 'STS-V', calendar year introduced - 2005, vehicle description: High-performance version of the STS
+ model - 'STS', calendar year introduced - 2006, vehicle description: Long-wheelbase version of the STS for the Chinese market
+ model - 'ATS', calendar year introduced - 2012, vehicle description: Compact luxury sedan and coupe
+ model - 'XTS', calendar year introduced - 2013, vehicle description: Full-size luxury sedan
+ model - 'ELR', calendar year introduced - 2013, vehicle description: Compact luxury plug-in hybrid coupe
+ model - 'ATS', calendar year introduced - 2014, vehicle description: Long-wheelbase version of the ATS for the Chinese market
+ model - 'ATS-V', calendar year introduced - 2016, vehicle description: High-performance version of the ATS
+ model - 'CT6', calendar year introduced - 2019, vehicle description: High-performance version of the CT6.
