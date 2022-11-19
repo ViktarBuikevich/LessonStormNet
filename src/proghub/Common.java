@@ -15,10 +15,11 @@ public class Common {
         //ver. 1
         Map<Integer, Integer> result = arr.stream().distinct().collect(Collectors.toMap(Function.identity(), token -> Collections.frequency(arr, token)));
         //ver. 2
-        Map<Object, Long> counts = arr.stream()
-                .collect(ArrayList::new, ArrayList::add, ArrayList::addAll)
-                .stream()
-                .collect(groupingBy(Function.identity(), counting()));
+        //TODO «¿ ŒÃ≈Õ“≤À ≤««¿ Œÿ»¡ »
+//        Map<Object, Long> counts = arr.stream()
+//                .collect(ArrayList::new, ArrayList::add, ArrayList::addAll)
+//                .stream()
+//                .collect(groupingBy(Function.identity(), counting()));
         return  0;
     }
 

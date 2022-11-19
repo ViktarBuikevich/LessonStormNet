@@ -24,10 +24,13 @@ public class FileHoursThread implements Runnable {
                 try (BufferedWriter fileWriter = new BufferedWriter(new FileWriter(file, true))) {
                     long endTime = System.currentTimeMillis() + 1000;
                     while (System.currentTimeMillis() < endTime) {
-                        int random = RandomUtil.getRandom(24);
+                        int randomH = RandomUtil.getRandom(24);
+                        int randomM = RandomUtil.getRandom(60);
                         //String hours = String.valueOf(System.out.format("%02d\n", random)); // непонятно но работает
-                        String hours = "00" + random;
-                        fileWriter.append(hours.substring(hours.length() - 2));
+                        String hh = "00" + randomH;
+                        String mm = "00" + randomM;
+                        String time= hh.substring(hh.length() - 2)+":"+mm.substring(mm.length() - 2);
+                        fileWriter.append(time);
                         fileWriter.newLine();
                     }
                     fileWriter.close();
